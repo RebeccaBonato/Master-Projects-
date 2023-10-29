@@ -6,18 +6,18 @@ These two years of master classes have been years full of adventures and experie
 The master's specialisation that I decided to undertake concerns 'biomedical instrumentation', which I had the opportunity to study in depth from several perspectives:
 
 1. The development process of programmable biomedical devices in their hardware and software parts. 
-* Through the use of a digital temperature sensor, displays and arduino, a digital thermometer [Nome del README](/cartella/nomefileREADME.md) was assembled and programmed.
-* Development of an artificial heart prototype for a year-long global student competition titled 'Heart Hackathon'[Nome del README](/cartella/nomefileREADME.md). 
+   * Through the use of a digital temperature sensor, displays and arduino, a digital thermometer [Nome del README](/cartella/nomefileREADME.md) was assembled and programmed.
+   * Development of an artificial heart prototype for a year-long global student competition titled 'Heart Hackathon'[Nome del README](/cartella/nomefileREADME.md). 
 
 2. The application of machine learning and deep learning algorithms in the biomedical field. Indeed, they are becoming increasingly popular not only for diagnostic support but also for the development of applications for wellness and fitness or rehabilitation purposes.
-* Artificial Intelligence in Medicine 
-* Deep Learning in Medical Images: challenge ISLES2022
-* ECG signal classification
-* Human Pose estimation for fitness application: fitness activity tracking
+   * Artificial Intelligence in Medicine 
+   * Deep Learning in Medical Images: challenge ISLES2022
+   * ECG signal classification
+   * Human Pose estimation for fitness application: fitness activity tracking
 
 3. Analysis of medical images with a particular focus on Magnetic Resonance Images (MRI) and Computerized tomography (CT).
-* MRI image reconstruction from radial sampling 
-* Segmentation and analysis of pelvic bone in CT images
+   * MRI image reconstruction from radial sampling 
+   * Segmentation and analysis of pelvic bone in CT images
 
  
 
