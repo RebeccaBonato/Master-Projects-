@@ -7,7 +7,7 @@ The master's specialisation that I decided to undertake concerns 'biomedical ins
 
 1. The development process of programmable biomedical devices in their hardware and software parts. 
    * Through the use of a digital temperature sensor, displays and arduino, a [Digital Thermometer](/cartella/nomefileREADME.md) was assembled and programmed.
-   * Development of an artificial heart prototype for a year-long global student competition titled 'Heart Hackathon'[Nome del README](/cartella/nomefileREADME.md). 
+   * Development of an artificial heart prototype for a year-long global student competition titled [Heart Hackathon](/cartella/nomefileREADME.md). 
 
 2. The application of machine learning and deep learning algorithms in the biomedical field. Indeed, they are becoming increasingly popular not only for diagnostic support but also for the development of applications for wellness and fitness or rehabilitation purposes.
    * Artificial Intelligence in Medicine 
