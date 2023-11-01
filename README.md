@@ -7,7 +7,7 @@ The master's specialisation that I decided to undertake concerns 'biomedical ins
 
 1. The development process of **programmable biomedical devices** in their hardware and software parts. 
    * Through the use of a digital temperature sensor, displays and arduino, a [Digital Thermometer](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Digital%20Thermometer/DigitalThermometer.md) was assembled and programmed.
-   * Development of an artificial heart prototype for a year-long global student competition titled [Heart Hackathon](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Heart%20Hackathon/Heart%20Hackathon). 
+   * Development of an artificial heart prototype for a year-long global student competition titled [Heart Hackathon](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Heart%20Hackathon/Heart%20Hackathon.md)
 
 2. The application of **machine learning and deep learning algorithms** in the biomedical field. Indeed, they are becoming increasingly popular not only for diagnostic support but also for the development of applications for wellness and fitness or rehabilitation purposes.
    * Artificial Intelligence in Medicine 
@@ -20,5 +20,3 @@ The master's specialisation that I decided to undertake concerns 'biomedical ins
    * Segmentation and analysis of pelvic bone in CT images
 
  
-
-
