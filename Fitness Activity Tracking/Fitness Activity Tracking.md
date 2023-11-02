@@ -9,6 +9,11 @@ The challenges we faced in carrying out this project were many.
    * The camera was not always fixed on the subject but sometimes moved around it. The video sometimes also framed people who were not taking part in the exercise.
    * Finally, the people performing the exercises were both professionals and amateurs. In some cases, the exercise was not performed correctly and therefore difficult for the neural network to classify. 
 
+The first step taken was a [data cleaning operation](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Fitness%20Activity%20Tracking/1_Annotations_to_dataframe.ipynb), both manual and automatic, to identify any errors. This made it much easier to process data. 
+
+We soon realised that working with videos was difficult for the resources we had available. Consequently, using an already trained network, [Movenet](https://www.tensorflow.org/hub/tutorials/movenet?hl=fr), we extracted the muscle joints of the subject performing the exercise for each frame ([here the code](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Fitness%20Activity%20Tracking/2_Create_lighter_dataset.ipynb)). In this way, we found ourselves working with signals: the movement of each right muscle over time. This made the dataset much lighter. 
+
+
 
 
 
