@@ -25,7 +25,7 @@ Finally, when the device was functioning. We had the honor of testing it in the 
 I had the opportunity to personally work in a two-month internship during summer 2023 on the optimisation of the model to be 3D printed, the programming of the motor using a driver and an arduino in different modes, testing and organizing data. 
 
 <p align="center">
-  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/flow_shape.jpg" alt="result" width="40%">
+  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/flow_shape.jpg" alt="result" width="45%">
 </p>
 
 
