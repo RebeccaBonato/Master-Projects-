@@ -1,7 +1,5 @@
 # Heart Hackathon 
 
-# Heart Hackathon 
-
 In November 2022, I decided to join a student team to participate in a competition called [Heart Hackathon](https://www.hearthackathon.com/). 
 This was a year-long competition involving students and universities from all over the world with a very ambitious goal: building a prototype of a total artificial heart. 
 
