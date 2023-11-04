@@ -21,7 +21,3 @@ And finally a big surprise: our abstract was accepted at the conference 49th ESA
 
 [Return to initial page](https://github.com/RebeccaBonato/Master-Projects-/blob/main/README.md)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> fadc0ff5c52ca58a7432ee1ae42a6b58e03eae9e
