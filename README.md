@@ -11,7 +11,7 @@ The master's specialisation that I decided to undertake concerns 'biomedical ins
 
 2. The application of **machine learning and deep learning algorithms** in the biomedical field. Indeed, they are becoming increasingly popular not only for diagnostic support but also for the development of applications for wellness and fitness or rehabilitation purposes.
    * Artificial Intelligence in Medicine 
-   * Deep Learning in Medical Images: challenge ISLES2022
+   * Deep Learning in Medical Images: challenge [ISLES2022](https://github.com/RebeccaBonato/Master-Projects-/blob/main/ISLES22/README.md)
    * ECG signal classification
    * Human Pose estimation for fitness application: [fitness activity tracking](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Fitness%20Activity%20Tracking/Fitness%20Activity%20Tracking.md)
 
