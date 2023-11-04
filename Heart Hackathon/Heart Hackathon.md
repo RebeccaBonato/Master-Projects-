@@ -19,7 +19,7 @@ The selection of materials to work with, their fabrication process (i.e. how to 
 Finally, when the device was functioning. We had the honor of testing it in the hybrid mockloop at the KTH, Royal Institute of technology. The hybrid mockloop is an in vitro model of the cardiovascular system that can simulate different physiological and pathological condition. In this way, we were able to verify the functioning of the artificial heart following the application of different pressures as input and output. 
 
 <p align="center">
-  <img src="(https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/flow_shape.jpg)" alt="HML" width="40%">
+  <img src="(https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/flow_shape.jpg)" alt="result" width="40%">
 </p>
 
 I had the opportunity to personally work in a two-month internship during summer 2023 on the optimisation of the model to be 3D printed, the programming of the motor using a driver and an arduino in different modes, testing and organizing data. 
