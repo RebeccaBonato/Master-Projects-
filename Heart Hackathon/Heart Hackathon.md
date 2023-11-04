@@ -18,6 +18,8 @@ The selection of materials to work with, their fabrication process (i.e. how to 
 
 Finally, when the device was functioning. We had the honor of testing it in the hybrid mockloop at the KTH, Royal Institute of technology. The hybrid mockloop is an in vitro model of the cardiovascular system that can simulate different physiological and pathological condition. In this way, we were able to verify the functioning of the artificial heart following the application of different pressures as input and output. 
 
+[![HML](https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/HML.mp4)](https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/HML.mp4)
+
 I had the opportunity to personally work in a two-month internship during summer 2023 on the optimisation of the model to be 3D printed, the programming of the motor using a driver and an arduino in different modes, testing and organizing data. 
 
 And finally a big surprise: our abstract was accepted at the conference 49th ESAO & IFAO CONGRESS - BERGAMO, ITALY. There, we had the opportunity to present our [Poster](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Heart%20Hackathon/TAH%20Poster.pdf) and to hear about the state-of-the-art research in the field of artificial organs. 
