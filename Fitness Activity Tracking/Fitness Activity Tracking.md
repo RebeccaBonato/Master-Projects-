@@ -15,6 +15,7 @@ We soon realised that working with videos was difficult for the resources we had
 
 At this point, the initial dataset was divided into training and validation in order to make it as balanced as possible. In addition, hot encoding was applied for the labels. The network has been built: a combination of a 1D convolutional neural network and a LSTM is used to do the classification of the activity based on the coordinates of the joints. Categorical crossentropy has been used as a loss function while accuracy is the metric used to evaluate performance along with confusion matrix. Finally, the best model was saved and adopted on a new dataset, which was not used for either training or validation. The code related to the model and its evaluation can be found [here](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Fitness%20Activity%20Tracking/3_Network.ipynb) 
 
+More details and our results can be found in our [final report](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Fitness%20Activity%20Tracking/Fitness_Activity_Tracking_.pdf). 
 This project was carried out at the KTH Royal Institute of Technology, as the final project of the course on machine learning applied to sport and health. This project was carried out in pairs of students; in my case, the collaboration with Benjamin Darcòt was crucial to the success of the project. 
 
 
