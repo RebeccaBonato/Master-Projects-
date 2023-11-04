@@ -13,7 +13,7 @@ But the biggest step was taken when it was time to move from theory to practice.
 The selection of materials to work with, their fabrication process (i.e. how to make them the desired shape and size), the selection of the motor and electronics, gave us an idea of the problems and the infinite unknowns to consider. I think this is what I take home most from this experience: the continuous process of trying and failing that ultimately leads to learning so much. 
 
 <p align="center">
-  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Heart.png" alt="Exploded view of our prototype." width="40%">
+  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Heart.png" alt="Exploded view of our prototype." width="55%">
 </p>
 
 Finally, when the device was functioning. We had the honor of testing it in the hybrid mockloop at the KTH, Royal Institute of technology. The hybrid mockloop is an in vitro model of the cardiovascular system that can simulate different physiological and pathological condition. In this way, we were able to verify the functioning of the artificial heart following the application of different pressures as input and output. 
@@ -23,7 +23,7 @@ I had the opportunity to personally work in a two-month internship during summer
 And finally a big surprise: our abstract was accepted at the conference 49th ESAO & IFAO CONGRESS - BERGAMO, ITALY. There, we had the opportunity to present our [Poster](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Heart%20Hackathon/TAH%20Poster.pdf) and to hear about the state-of-the-art research in the field of artificial organs. 
 
 <p align="center">
-  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Bergamo%20.jpeg" alt="Bergamo Presentation" width="60%">
+  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Bergamo%20.jpeg" alt="Bergamo Presentation" width="40%">
 </p>
 
 
