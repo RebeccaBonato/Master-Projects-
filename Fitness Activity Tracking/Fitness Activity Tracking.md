@@ -23,25 +23,13 @@ At this point, the initial dataset was divided into training and validation in o
 
 <div style="text-align: center;">
   <div style="display: inline-block; text-align: left;">
-    <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/cm_validation.png" alt="Immagine 1" style="width:300px;" />
+    <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/cm_validation.png" alt="Immagine 1" style="width:400px;" />
     <p style="margin: 0;">Best model: Confusion matrix on validation set</p>
   </div>
   <div style="display: inline-block; text-align: left;">
-    <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/cm_test.png" alt="Immagine 2" style="width:300px;" />
+    <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/cm_test.png" alt="Immagine 2" style="width:400px;" />
     <p style="margin: 0;">Confusion matrix on test set </p>
   </div>
-</div>
-
-<div style="text-align: center;">
-  <figure>
-    <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/cm_validation.png" alt="Immagine 1" style="width:400px;" />
-    <figcaption>Confusion matrix on validation set</figcaption>
-  </figure>
-
-  <figure>
-    <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/cm_test.png" alt="Immagine 2" style="width:400px;" />
-    <figcaption>Confusion matrix on test set</figcaption>
-  </figure>
 </div>
 
 
