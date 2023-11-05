@@ -21,7 +21,7 @@ We soon realised that working with videos was difficult for the resources we had
 At this point, the initial dataset was divided into training and validation in order to make it as balanced as possible. In addition, hot encoding was applied for the labels. The network has been built: a combination of a 1D convolutional neural network and a LSTM is used to do the classification of the activity based on the coordinates of the joints. Categorical crossentropy has been used as a loss function while accuracy is the metric used to evaluate performance along with confusion matrix. 
 
 <div style="text-align: center;">
-    <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/loss.png" alt="Training" style="width:500px;" />
+    <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/loss.png" alt="Training" style="width:700px;" />
 </div>
 
 
