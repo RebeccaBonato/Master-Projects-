@@ -23,15 +23,9 @@ At this point, the initial dataset was divided into training and validation in o
 
 _Best model: confusion matrices on validation and test set_
 <div style="text-align: center;">
-  <div style="display: inline-block; text-align: left;">
     <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/cm_validation.png" alt="Immagine 1" style="width:400px;" />
-  </div>
-  <div style="display: inline-block; text-align: left;">
     <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/cm_test.png" alt="Immagine 2" style="width:400px;" />
-  </div>
 </div>
-
-
 
 More details and our results can be found in our [final report](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Fitness%20Activity%20Tracking/Fitness_Activity_Tracking_.pdf). 
 This project was carried out at the KTH Royal Institute of Technology, as the final project of the course on machine learning applied to sport and health. This project was carried out in pairs of students; in my case, the collaboration with Benjamin Darcòt was crucial to the success of the project. 
