@@ -24,13 +24,14 @@ At this point, the initial dataset was divided into training and validation in o
 <div style="text-align: center;">
   <div style="display: inline-block; text-align: left;">
     <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/cm_validation.png" alt="Immagine 1" style="width:400px;" />
-    <p style="margin: 0;">Best model: Confusion matrix on validation set</p>
+    <p style="font-style: italic; text-align: center; margin: 0;">Best model: Confusion matrix on validation set</p>
   </div>
   <div style="display: inline-block; text-align: left;">
     <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/cm_test.png" alt="Immagine 2" style="width:400px;" />
-    <p style="margin: 0;">Confusion matrix on test set </p>
+    <p style="font-style: italic; text-align: center; margin: 0;">Confusion matrix on test set </p>
   </div>
 </div>
+
 
 
 More details and our results can be found in our [final report](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Fitness%20Activity%20Tracking/Fitness_Activity_Tracking_.pdf). 
