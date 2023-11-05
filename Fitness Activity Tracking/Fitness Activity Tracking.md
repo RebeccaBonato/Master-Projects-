@@ -2,6 +2,11 @@
 
 The aim of the project was to create a machine or deep learning algorithm capable of classifying fitness videos into the correct type of exercise performed. Each video contained more than one exercise, and for this reason we were provided with a file detailing when each exercise began and ended in order to have a dataset with appropriate labels. 
 
+<div>
+  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/5minex.png" alt="Immagine 1" width="300" />
+  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/7minex.png" alt="Immagine 2" width="300" />
+</div>
+
 The challenges we faced in carrying out this project were many. 
    * First of all, each video was characterised by a series of frames of different size and the number of frames per exercise was variable.
    * The resolution changed from video to video.
