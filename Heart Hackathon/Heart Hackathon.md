@@ -16,6 +16,8 @@ The selection of materials to work with, their fabrication process (i.e. how to 
   <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Heart.png" alt="Exploded view of our prototype." width="55%">
 </p>
 
+In particular, the actuation mechanism and external case were 3D printed with carbon fibre reinforcements. The two chambers of the heart, designed to contain blood, were instead made of silicone using moulding. The electronics, on the other hand, were bought, assembled and programmed. 
+
 Finally, when the device was functioning. We had the honor of testing it in the hybrid mockloop at the KTH, Royal Institute of technology. The hybrid mockloop is an in vitro model of the cardiovascular system that can simulate different physiological and pathological condition. In this way, we were able to verify the functioning of the artificial heart following the application of different pressures as input and output. 
 
 <p align="center">
