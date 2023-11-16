@@ -7,13 +7,13 @@ In magnetic resonance imaging, the signal is acquired in the so-called k-space (
 
 In this project, we analyze techniques for reconstructing images from radial sampling of the k-space (or Fourier space). 
 
-<img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Trajectories - Gold angle Tight.png" alt="Testo alternativo" width="85%">
+<img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Trajectories - Gold angle Tight.png" alt="Testo alternativo" width="80%">
 
 In particular, we focus on the inverse fast Fourier transform (the technique used for cartesian sampling), non-uniform adjoint fast Fourier transform, wavelet transform, and total variation reconstruction. To compare the image reconstructed respecting the Nyquist theorem with images reconstructed from radial sampling, various quantitative metrics (such as cumulative error) and qualitative metrics (intensity difference, gradient difference) were employed.
 
 The best part of the project, in my opinion, was the application of the image reconstruction method used in computerized tomography, called **filtered backprojection**, to the reconstruction of MRI images (as it is possible to see in the figure). 
 
-<img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/CT_differentR.jpg" alt="Testo alternativo" width="90%">
+<img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/CT_differentR.jpg" alt="Testo alternativo" width="80%">
 
 This step required a deep understanding of the mechanisms of two fundamental techniques in medicine, CT and MRI. It was truly satisfying to be able to accomplish this!
 
