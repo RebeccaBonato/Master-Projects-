@@ -13,7 +13,7 @@ But the biggest step was taken when it was time to move from theory to practice.
 The selection of materials to work with, their fabrication process (i.e. how to make them the desired shape and size), the selection of the motor and electronics, gave us an idea of the problems and the infinite unknowns to consider. I think this is what I take home most from this experience: the continuous process of trying and failing that ultimately leads to learning so much. 
 
 <p align="center">
-  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Heart.png" alt="Exploded view of our prototype." width="55%">
+  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Heart.png" alt="Exploded view of our prototype." width="65%">
 </p>
 
 In particular, the actuation mechanism and external case were 3D printed with carbon fibre reinforcements. The two chambers of the heart, designed to contain blood, were instead made of silicone using moulding. The electronics, on the other hand, were bought, assembled and programmed. 
