@@ -3,7 +3,7 @@
 My journey in the field of medical imaging began with this project. Magnetic resonance imaging is a powerful tool for obtaining images of soft body tissues. 
 In magnetic resonance imaging, the signal is acquired in the so-called k-space (Fourier space) and subsequently converted into the spatial domain of the image. If sufficient samples are acquired to satisfy the Nyquist theorem, then the reconstructed image does not lose information compared to the original. However, acquiring an entire Cartesian plane is time-consuming, leading to issues such as prolonged machine usage for a single patient, motion artifacts, and patient discomfort. In the figure its possible to see how a slice of the image appear in the Fourier space and in the image domain. 
 
-<img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Central slice - cartesian kspace.png" alt="Testo alternativo" width="45%"><img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Central slide.png" alt="Testo alternativo" width="50%">
+<img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Central slice - cartesian kspace.png" alt="Testo alternativo" width="42%"><img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Central slide.png" alt="Testo alternativo" width="50%">
 
 In this project, we analyze techniques for reconstructing images from radial sampling of the k-space (or Fourier space). 
 
