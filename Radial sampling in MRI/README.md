@@ -13,4 +13,4 @@ The best part of the project, in my opinion, was the application of the image re
 
 This project was carried out as part of the 3D Image Reconstruction and Analysis in Medicine course at KTH-Royal Institute of Technology. The project was conducted in collaboration with another student, Ana Candela."
 
-
+[Return to initial page](https://github.com/RebeccaBonato/Master-Projects-/blob/main/README.md)
