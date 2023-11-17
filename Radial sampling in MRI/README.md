@@ -9,15 +9,15 @@ In this project, we analyze techniques for reconstructing images from radial sam
 
 <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Trajectories - Gold angle Tight.png" alt="Testo alternativo" width="80%">
 
-In particular, we focus on the inverse fast Fourier transform (the technique used for cartesian sampling), non-uniform adjoint fast Fourier transform, wavelet transform, and total variation reconstruction. To compare the image reconstructed respecting the Nyquist theorem with images reconstructed from radial sampling, various quantitative metrics (such as cumulative error) and qualitative metrics (intensity difference, gradient difference) were employed.
+In particular, we focus on the inverse fast Fourier transform (the technique used for cartesian sampling), non-uniform adjoint fast Fourier transform, wavelet transform, and total variation reconstruction. To compare the image reconstructed respecting the Nyquist theorem with images reconstructed from radial sampling, various quantitative metrics (such as cumulative error) and qualitative metrics (intensity difference, gradient difference) were employed. Here the [code](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Radial%20sampling%20in%20MRI/Project_final.ipynb) of our investigation and assessment. 
 
-The best part of the project, in my opinion, was the application of the image reconstruction method used in computerized tomography, called **FILTERED BACKPROJECTION**, to the reconstruction of MRI images (as it is possible to see in the figure). 
+The best part of the project, in my opinion, was the application of the image reconstruction method used in computerized tomography, called **FILTERED BACKPROJECTION**, to the reconstruction of MRI images (here the [code](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Radial%20sampling%20in%20MRI/CT%20Reconstruction.ipynb) of this task and below you can see results of our reconstruction). 
 
 <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/CT_differentR.jpg" alt="Testo alternativo" width="80%">
 
-This step required a deep understanding of the mechanisms of two fundamental techniques in medicine, CT and MRI. It was truly satisfying to be able to accomplish this!
+This step required a deep understanding of the mechanisms of two fundamental imaging techniques in medicine, CT and MRI. It was truly satisfying to be able to accomplish this!!
 
-**If you want to know more about it**, here link to the [python code](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Radial%20sampling%20in%20MRI/Task1.ipynb) and to the [project report](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Radial%20sampling%20in%20MRI/Project_1___3D_Image_Reconstruction.pdf).
+**If you want to know more about it**, here link to the [project report](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Radial%20sampling%20in%20MRI/Project_1%20-%20Report_Project_1.pdf).
 
 This project was carried out as part of the 3D Image Reconstruction and Analysis in Medicine course at KTH-Royal Institute of Technology. The project was conducted in collaboration with another student, Ana Candela."
 
