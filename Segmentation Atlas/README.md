@@ -3,6 +3,8 @@ Atlas based segmentation of the left femur and pelvis. Registration is done in a
 
 The project consists of:
  - Manual segmentation of the femoral head and pelvis using seeded region growing in 3D Slicer
+![3Dslicer different view](https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/3Dslicer_3view.png) ![3Dslicer 3D segmentation](https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/3Dslicer.png)
+
  - Registration of atlas images to target image using SITK
     - First linear registration (Similarity transform)
     - Then non-linear registration (B-Spline)
