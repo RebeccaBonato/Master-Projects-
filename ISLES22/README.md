@@ -42,9 +42,10 @@ Since we used different methods to find the best models, we organized them in di
 
 [Main_adc.py](https://github.com/RebeccaBonato/Master-Projects-/blob/main/ISLES22/main_adc.py): This file allows to run the model adding ADC images.
 
-
-[Return to initial page](https://github.com/RebeccaBonato/Master-Projects-/blob/main/README.md)
 [dataset-ISLES22](https://github.com/RebeccaBonato/Master-Projects-/tree/main/ISLES22/dataset-ISLES22): This folder contains the data-set.
 
 [autocontext](https://github.com/RebeccaBonato/Master-Projects-/tree/main/ISLES22/autocontext): This folder is needed to save the data during autocontext.
 
+
+
+[Return to initial page](https://github.com/RebeccaBonato/Master-Projects-/blob/main/README.md)
