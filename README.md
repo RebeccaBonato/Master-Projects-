@@ -19,3 +19,9 @@ The master's specialisation that I decided to undertake concerns 'biomedical ins
    * [Atlas based segmentation and analysis of pelvic bone in CT images](https://github.com/RebeccaBonato/Master-Projects-/tree/main/Segmentation%20Atlas)
 
 <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/LAUREA.jpg" alt="Testo alternativo" width="25%"><img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/KTH.jpeg" alt="Testo alternativo" width="25%"><img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/epfl.jpeg" alt="Testo alternativo" width="45%">
+
+<p align="center">
+  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/LAUREA.jpg" alt="polito" width="25%">
+  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/KTH.jpeg" alt="KTH" width="25%">
+  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/epfl.jpeg" alt="EPFL" width="47%">
+</p>
