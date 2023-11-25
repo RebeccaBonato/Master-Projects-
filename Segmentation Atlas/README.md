@@ -5,10 +5,8 @@ The project consists of:
  - Manual segmentation of the femoral head and pelvis using seeded region growing in 3D Slicer
 
 <p align="center">
-  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/3Dslicer_3view.png" alt="3D slicer" width="30%">
-</p>
-<p align="center">
-  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/3Dslicer.png" alt="3D slicer segmented" width="50%">
+  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/3Dslicer_3view.png" alt="3D slicer" width="40%">
+  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/3Dslicer.png" alt="3D slicer segmented" width="40%">
 </p>
 
  - Registration of atlas images to target image using SITK
