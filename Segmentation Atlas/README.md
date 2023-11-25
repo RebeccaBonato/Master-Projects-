@@ -6,7 +6,7 @@ The project consists of:
 
 <p align="center">
   <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/3Dslicer_3view.png" alt="3D slicer" width="40%">
-  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/3Dslicer.png" alt="3D slicer segmented" width="30%">
+  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/3Dslicer.png" alt="3D slicer segmented" width="32%">
 </p>
 
  - Registration of atlas images to target image using SITK
