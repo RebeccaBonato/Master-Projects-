@@ -8,13 +8,13 @@ The goal of the Ischemic Stroke Lesion Segmentation Challenge (ISLES'22) is to e
 Here are two examples of DWI images and their mask.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92582518/204902293-ec70d5d6-55d2-43a9-a4c8-fa03a4560039.jpg" alt="dwi_mask00093" width="50%">
-  <img src="https://user-images.githubusercontent.com/92582518/204905838-247b0828-941a-491d-9e82-56887732d263.jpg" alt="dwi_image00093" width="50%">
+  <img src="https://user-images.githubusercontent.com/92582518/204902293-ec70d5d6-55d2-43a9-a4c8-fa03a4560039.jpg" alt="dwi_mask00093" width="25%">
+  <img src="https://user-images.githubusercontent.com/92582518/204905838-247b0828-941a-491d-9e82-56887732d263.jpg" alt="dwi_image00093" width="25%">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92582518/204902514-1ea06149-d7f2-4295-8242-963ebfab32ed.jpg" alt="dwi_mask00037" width="50%">
-  <img src="https://user-images.githubusercontent.com/92582518/204902530-477d8cec-9ff8-4061-9e21-f942b653e796.jpg" alt="dwi_image00037" width="50%">
+  <img src="https://user-images.githubusercontent.com/92582518/204902514-1ea06149-d7f2-4295-8242-963ebfab32ed.jpg" alt="dwi_mask00037" width="25%">
+  <img src="https://user-images.githubusercontent.com/92582518/204902530-477d8cec-9ff8-4061-9e21-f942b653e796.jpg" alt="dwi_image00037" width="25%">
 </p>
 
 ![dwi_mask00093](https://user-images.githubusercontent.com/92582518/204902293-ec70d5d6-55d2-43a9-a4c8-fa03a4560039.jpg)
