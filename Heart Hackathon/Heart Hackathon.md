@@ -37,6 +37,9 @@ And finally a big surprise: our abstract was accepted at the conference 49th ESA
   <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/Bergamo%20.jpeg" alt="Bergamo Presentation" width="40%">
 </p>
 
+## :handshake: Contributors
+The KTAH team members who participated in the project are: Pierre Bourdin, Alejandro Penacho Riveiros, Salvar Andri Johannsson, Matthildur Eysteindòttir, Ana Candela Celdran. Thanks to Professor Seraina Anne Dual who coordinated and supervised the project and Professor Georgios Andrikopoulos, Postdoc Emanuele Perra and PhD Rosato Aurora for their supervision and help. 
+
 
 [Return to initial page](https://github.com/RebeccaBonato/Master-Projects-/blob/main/README.md)
 
