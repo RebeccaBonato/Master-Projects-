@@ -18,4 +18,4 @@ The master's specialisation that I decided to undertake concerns 'biomedical ins
    * [MRI image reconstruction from radial sampling](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Radial%20sampling%20in%20MRI/README.md)
    * [Atlas based segmentation and analysis of pelvic bone in CT images](https://github.com/RebeccaBonato/Master-Projects-/tree/main/Segmentation%20Atlas)
 
-<img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/LAUREA.jpg" alt="Testo alternativo" width="32%"><img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/KTH.jpeg" alt="Testo alternativo" width="30%"><img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/epfl.jpeg" alt="Testo alternativo" width="40%">
+<img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/LAUREA.jpg" alt="Testo alternativo" width="32%"><img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/KTH.jpeg" alt="Testo alternativo" width="20%"><img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/epfl.jpeg" alt="Testo alternativo" width="40%">
