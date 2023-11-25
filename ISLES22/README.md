@@ -18,7 +18,7 @@ Here are two examples of DWI images and their mask.
 </p>
 
 ## :handshake: Contributors
-this project was carried out with the precious collaboration of Marianne Scoglio. This was a school project carried out at KTH-Royal Intitute of Technology as part of the course Deep Learning in Medical Images: a hand-on course. 
+This project was carried out with the precious collaboration of Marianne Scoglio. This project has been realized as part of the course Deep Learning in Medical Images: a hand-on course (KTH-Royal Institute of Technology)
 
 ## Project description and results
 A U-Net was implemented and trained with DWI images (ADC were adedd later) of stroke lesions and their ground-truth. Various techniques were used to improve and evaluate the model: tuning of hyperparameters (including class weights), autocontext, K-fold cross validation, data augmentation and weighted loss for boundary masks. All the knowledge comes from the previous Labs and from researches on internet.
