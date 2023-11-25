@@ -17,6 +17,6 @@ The master's specialisation that I decided to undertake concerns 'biomedical ins
 
 3. Analysis of **medical images** with a particular focus on Magnetic Resonance Images (MRI) and Computerized tomography (CT).
    * [MRI image reconstruction from radial sampling](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Radial%20sampling%20in%20MRI/README.md)
-   * Segmentation and analysis of pelvic bone in CT images
+   * [Segmentation via majoring voting and analysis of pelvic bone in CT images](https://github.com/RebeccaBonato/Master-Projects-/tree/main/Segmentation%20Atlas)
 
  
