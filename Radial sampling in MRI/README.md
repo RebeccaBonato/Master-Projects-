@@ -19,6 +19,7 @@ This step required a deep understanding of the mechanisms of two fundamental ima
 
 **If you want to know more about it**, here link to the [project report](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Radial%20sampling%20in%20MRI/Project_1%20-%20Report_Project_1.pdf).
 
-This project was carried out as part of the 3D Image Reconstruction and Analysis in Medicine course at KTH-Royal Institute of Technology. The project was conducted in collaboration with another student, Ana Candela."
+## :handshake: Contributors
+The project was carried out in collaboration Ana Candela Celdrán as part of the 3D Image Reconstruction and Analysis in Medicine course at KTH-Royal Institute of Technology. 
 
 [Return to initial page](https://github.com/RebeccaBonato/Master-Projects-/blob/main/README.md)

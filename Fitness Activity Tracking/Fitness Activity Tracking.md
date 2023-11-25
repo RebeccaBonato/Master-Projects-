@@ -36,6 +36,8 @@ _Best model: confusion matrices on validation and test set_
 
 
 More details and our results can be found in our [final report](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Fitness%20Activity%20Tracking/Fitness_Activity_Tracking_.pdf). 
+
+ ## :handshake: Contributors
 This project was carried out at the KTH Royal Institute of Technology, as the final project of the course on machine learning applied to sport and health. This project was carried out in pairs of students; in my case, the collaboration with Benjamin Darcòt was crucial to the success of the project. 
 
 
