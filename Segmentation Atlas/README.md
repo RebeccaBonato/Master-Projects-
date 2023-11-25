@@ -25,5 +25,7 @@ The project consists of:
  The report is structured in a way that the [main.py file](main.py) starts defines the atlas images as a list of paths and also defines images that are supposed to be segmented. The files [segmentation](segmentation.py), [registration](registration.py), [transformation](transformation.py) and [assessment](assessment.py) implement their respective functions. For more details about the project see [project_report.pdf](project_report.pdf).
 
 
+ ## :handshake: Contributors
+ This project has been carried out in collaboration with Lasse Stahnke as a part of the course 3D reconstruction and analysis in images at KTH-Royal Institute of Technology. 
 
 [Return to initial page](https://github.com/RebeccaBonato/Master-Projects-/blob/main/README.md)
