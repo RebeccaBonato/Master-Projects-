@@ -10,13 +10,12 @@ The master's specialisation that I decided to undertake concerns 'biomedical ins
    * Development of an artificial heart prototype for a year-long global student competition titled [Heart Hackathon](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Heart%20Hackathon/Heart%20Hackathon.md)
 
 2. The application of **machine learning and deep learning algorithms** in the biomedical field. Indeed, they are becoming increasingly popular not only for diagnostic support but also for the development of applications for wellness and fitness or rehabilitation purposes.
-   * Artificial Intelligence in Medicine 
    * Deep Learning in Medical Images: challenge [ISLES2022](https://github.com/RebeccaBonato/Master-Projects-/blob/main/ISLES22/README.md)
    * ECG signal classification
    * Human Pose estimation for fitness application: [fitness activity tracking](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Fitness%20Activity%20Tracking/Fitness%20Activity%20Tracking.md)
-
+     
 3. Analysis of **medical images** with a particular focus on Magnetic Resonance Images (MRI) and Computerized tomography (CT).
    * [MRI image reconstruction from radial sampling](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Radial%20sampling%20in%20MRI/README.md)
-   * Segmentation and analysis of pelvic bone in CT images
+   * [Atlas based segmentation and analysis of pelvic bone in CT images](https://github.com/RebeccaBonato/Master-Projects-/tree/main/Segmentation%20Atlas)
 
  
