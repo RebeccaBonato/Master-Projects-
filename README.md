@@ -11,7 +11,7 @@ The master's specialisation that I decided to undertake concerns 'biomedical ins
   
    * Human Pose estimation for fitness application: [fitness activity tracking](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Fitness%20Activity%20Tracking/Fitness%20Activity%20Tracking.md)
    * Deep Learning in Medical Images: challenge [ISLES2022](https://github.com/RebeccaBonato/Master-Projects-/blob/main/ISLES22/README.md)
-   * ECG signal classification
+   * [ECG signal classification](https://github.com/RebeccaBonato/Master-Projects-/blob/main/ECG/ECG%20classification.md)
      
 4. Analysis of **medical images** with a particular focus on Magnetic Resonance Images (MRI) and Computerized tomography (CT).
    * [MRI image reconstruction from radial sampling](https://github.com/RebeccaBonato/Master-Projects-/blob/main/Radial%20sampling%20in%20MRI/README.md)
