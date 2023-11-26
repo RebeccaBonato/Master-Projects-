@@ -3,7 +3,7 @@
 The objective of this project is to classify 12-lead ECG signals using a machine or deep learning algorithm. 
 
 <p align="center">
-  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/ECG.png" alt="ECG" width="60%">
+  <img src="https://github.com/RebeccaBonato/Master-Projects-/blob/main/images/ECG.png" alt="ECG" width="90%">
 </p>
 The classification is multi-class (5 classes present) and multi-label (each ECG can be assigned more than one class). Each ECG can be classified as normal ECG, myocardial infarction, ST/T change, conduction disturbance and/or hypertrophy. 
 
